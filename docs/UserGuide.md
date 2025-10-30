@@ -16,11 +16,7 @@ Tuiniverse is a **desktop app** which expedites:
 * Lesson scheduling 
 
 All of this is displayed done with optimized typing (via a Command Line Interface) layered within graphical 
-display of all the information you need. 
-
-Our **guarantee** is that we can get your contact management tasks done **faster** than all the alternatives.
-
-AddressBook Level 3 (AB3) is a **desktop app for managing contacts, optimized for use via a  Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB3 can get your contact management tasks done faster than traditional GUI apps.
+display of all the information you need.
 
 <!-- * Table of Contents -->
 <page-nav-print />
