@@ -32,9 +32,12 @@ public class Rate {
      * Checks if the given float is a valid rate.
      */
     public static boolean isValidRate(String str) {
-        float rate = Float.parseFloat(str);
-        return (rate >= 0);
-
+        try {
+            float rate = Float.parseFloat(str);
+            return (rate >= 0);
+        } catch (NumberFormatException e) {
+            return false;
+        }
     }
 
     @Override
